@@ -9,5 +9,4 @@ public class FlinkAgentApplication {
     public static void main(String[] args) {
         SpringApplication.run(FlinkAgentApplication.class, args);
     }
-
 }

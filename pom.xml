@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>edu.npu</groupId>
-    <artifactId>flink-agent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>flink-agent</name>
+    <artifactId>zorathos-flink-agent</artifactId>
+    <version>1.0.0</version>
+    <name>zorathos-flink-agent</name>
     <description>flink-agent</description>
     <url/>
     <licenses>
